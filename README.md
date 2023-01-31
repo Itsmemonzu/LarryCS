@@ -6,3 +6,6 @@ LarryCS is an asynchronous dictionary-search engine that runs in your terminal u
 - run using `dotnet run`
 - type a word
 - Voila!
+
+# IMPORTANT
+This program is on a very early stage and just has been started getting developed recently. It DOES NOT have a polished UI & may have quite a few bugs. As time progresses, I will add more and more feature and a very pleasing UI. 
