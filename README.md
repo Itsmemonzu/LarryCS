@@ -3,6 +3,7 @@ LarryCS is an asynchronous dictionary-search engine that runs in your terminal u
 
 # Installation & Usage 
 - Download the program from this GitHub repository
+- Make sure to have [Spectre.Console](https://spectreconsole.net/) installed.
 - run using `dotnet run`
 - type a word
 - Voila!
